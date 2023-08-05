@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Afganistan",
+    "capital": "Kabul",
+    "lat": 34.5333,
+    "long": 69.1667
+  },
+  {
+    "country": "Almanya",
+    "capital": "Berlin",
+    "lat": 52.5167,
+    "long": 13.3833
+  },
+  {
+    "country": "Amerika Birleşik Devletleri",
+    "capital": "Washington, D.C.",
+    "lat": 38.8951,
+    "long": -77.0364
+  },
+  {
+    "country": "Arjantin",
+    "capital": "Buenos Aires",
+    "lat": -34.6118,
+    "long": -58.4173
+  },
+  {
+    "country": "Avustralya",
+    "capital": "Canberra",
+    "lat": -35.3075,
+    "long": 149.1244
+  },
+  {
+    "country": "Avusturya",
+    "capital": "Viyana",
+    "lat": 48.2082,
+    "long": 16.3738
+  },
+  {
+    "country": "Azerbaycan",
+    "capital": "Baku",
+    "lat": 40.3834,
+    "long": 49.8932
+  },
+  {
+    "country": "Belçika",
+    "capital": "Brussels",
+    "lat": 50.8503,
+    "long": 4.3517
+  },
+  {
+    "country": "Birleşik Arap Emirlikleri",
+    "capital": "Abu Dhabi",
+    "lat": 24.4539,
+    "long": 54.3773
+  },
+  {
+    "country": "Brezilya",
+    "capital": "Brasília",
+    "lat": -15.7801,
+    "long": -47.9292
+  },
+  {
+    "country": "Bulgaristan",
+    "capital": "Sofia",
+    "lat": 42.6977,
+    "long": 23.3219
+  },
+  {
+    "country": "Çek Cumhuriyeti",
+    "capital": "Prague",
+    "lat": 50.0755,
+    "long": 14.4378
+  },
+  {
+    "country": "Çin",
+    "capital": "Beijing",
+    "lat": 39.9042,
+    "long": 116.4074
+  },
+  {
+    "country": "Danimarka",
+    "capital": "Copenhagen",
+    "lat": 55.6761,
+    "long": 12.5683
+  },
+  {
+    "country": "Endonezya",
+    "capital": "Jakarta",
+    "lat": -6.1751,
+    "long": 106.865
+  },
+  {
+    "country": "Finlandiya",
+    "capital": "Helsinki",
+    "lat": 60.1699,
+    "long": 24.9384
+  },
+  {
+    "country": "Fransa",
+    "capital": "Paris",
+    "lat": 48.8566,
+    "long": 2.3522
+  },
+  {
+    "country": "Güney Kore",
+    "capital": "Seoul",
+    "lat": 37.5665,
+    "long": 126.978
+  },
+  {
+    "country": "Hindistan",
+    "capital": "New Delhi",
+    "lat": 28.6139,
+    "long": 77.209
+  },
+  {
+    "country": "Hollanda",
+    "capital": "Amsterdam",
+    "lat": 52.3676,
+    "long": 4.9041
+  },
+  {
+    "country": "İngiltere",
+    "capital": "London",
+    "lat": 51.5074,
+    "long": -0.1278
+  },
+  {
+    "country": "İrlanda",
+    "capital": "Dublin",
+    "lat": 53.3498,
+    "long": -6.2603
+  },
+  {
+    "country": "İspanya",
+    "capital": "Madrid",
+    "lat": 40.4168,
+    "long": -3.7038
+  },
+  {
+    "country": "İsveç",
+    "capital": "Stockholm",
+    "lat": 59.3293,
+    "long": 18.0686
+  },
+  {
+    "country": "İsviçre",
+    "capital": "Bern",
+    "lat": 46.8182,
+    "long": 8.2275
+  },
+  {
+    "country": "İtalya",
+    "capital": "Rome",
+    "lat": 41.9028,
+    "long": 12.4964
+  },
+  {
+    "country": "Japonya",
+    "capital": "Tokyo",
+    "lat": 35.6895,
+    "long": 139.6917
+  },
+  {
+    "country": "Kanada",
+    "capital": "Ottawa",
+    "lat": 45.4215,
+    "long": -75.6972
+  },
+  {
+    "country": "Norveç",
+    "capital": "Oslo",
+    "lat": 59.9139,
+    "long": 10.7522
+  },
+  {
+    "country": "Türkiye",
+    "capital": "Ankara",
+    "lat": 39.9208,
+    "long": 32.8541
+  }
+]
