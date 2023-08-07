@@ -15,12 +15,12 @@ export default {
 
     extend: {
       backgroundImage: {
-        cloudly: "url('./src/assets/images/clouds.jpg')",
+        cloudly: "url('/src/assets/images/clouds.jpg')",
         thunder_storm: "url('./src/assets/images/thunderstorm.webp')",
         rain: "url('./src/assets/images/rain.jpg')",
         snowly: "url('./src/assets/images/snow.jpg')",
         drizzle: "url('./src/assets/images/drizzle.jpg')",
-        default: "url('./src/assets/images/default.jpg')",
+        default: "url('/src/assets/images/default.jpg')",
       },
     },
   },

@@ -15,31 +15,31 @@ function City() {
   let conditionWeather;
 
   if (currentCity?.current?.condition.text.toLowerCase().includes("sunny")) {
-    conditionWeather = "default";
+    conditionWeather = "bg-default";
   } else if (
     currentCity?.current?.condition.text.toLowerCase().includes("rain")
   ) {
-    conditionWeather = "rain";
+    conditionWeather = "bg-rain";
   } else if (
     currentCity?.current?.condition.text.toLowerCase().includes("cloud")
   ) {
-    conditionWeather = "cloudly";
+    conditionWeather = "bg-cloudly";
   } else if (
     currentCity?.current?.condition.text.toLowerCase().includes("overcast")
   ) {
-    conditionWeather = "cloudly";
+    conditionWeather = "bg-cloudly";
   } else if (
     currentCity?.current?.condition.text.toLowerCase().includes("storm")
   ) {
-    conditionWeather = "thunder_storm";
+    conditionWeather = "bg-thunder_storm";
   } else if (
     currentCity?.current?.condition.text.toLowerCase().includes("snow")
   ) {
-    conditionWeather = "snowly";
+    conditionWeather = "bg-snowly";
   } else if (
     currentCity?.current?.condition.text.toLowerCase().includes("driz")
   ) {
-    conditionWeather = "drizzle";
+    conditionWeather = "bg-drizzle";
   }
 
   useEffect(() => {
@@ -82,7 +82,7 @@ function City() {
     </div>
   ) : (
     <div
-      className={`flex flex-col items-center h-screen bg-no-repeat bg-center bg-cover bg-${conditionWeather}`}
+      className={`flex flex-col items-center h-screen bg-no-repeat bg-center bg-cover ${conditionWeather}`}
     >
       <div className="w-[50%] mt-10">
         <NavLink to="/" className="flex text-blue-500 font-medium">

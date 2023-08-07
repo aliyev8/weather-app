@@ -726,6 +726,30 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-default {
+  background-image: url('/src/assets/images/default.jpg');
+}
+
+.bg-cloudly {
+  background-image: url('/src/assets/images/clouds.jpg');
+}
+
+.bg-drizzle {
+  background-image: url('./src/assets/images/drizzle.jpg');
+}
+
+.bg-rain {
+  background-image: url('./src/assets/images/rain.jpg');
+}
+
+.bg-snowly {
+  background-image: url('./src/assets/images/snow.jpg');
+}
+
+.bg-thunder_storm {
+  background-image: url('./src/assets/images/thunderstorm.webp');
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -860,10 +884,6 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
   .md\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
